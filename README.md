@@ -9,4 +9,4 @@ Spent the afternoon playing around with Julia and it's certainly very fun.
 
 ### Instructions to run this
 1. `using Pkg; Pkg.add("CSV"); Pkg.add("DataFrames")`
-2. `julia test.jl`
+2. `julia Main.jl`
